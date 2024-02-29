@@ -1,0 +1,29 @@
+table {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkgreen;
+  
+}
+td{
+	color: navy;
+	font-size:25;
+	
+}
+button{
+	color: darkred;
+	font-size:25;
+}
+input
+{
+    color:blue;
+    font-size:24px;
+    text-align : center;
+}
+select
+{
+    color:darkgreen;
+    font-size:24px;
+    text-align : center;
+}
